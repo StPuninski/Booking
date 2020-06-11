@@ -27,10 +27,15 @@ public class BookingSteps {
 
     @Then("Отель с {string} отображается на странице")
     public void отельОтображаетсяНаСтранице(String resultHotelName) {
-        
+//  data-hotelid="770781"
     }
 
     @And("Рейтинг отеля {string}")
     public void рейтингОтеля(String rating) {
+
+//        arial-label="Scored 7.0"
+//        привести к нормальному виду
+//        /html[1]/body[1]/div[6]/div[1]/div[3]/div[1]/div[1]/div[7]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[1]/div[1]
+
     }
 }
