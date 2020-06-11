@@ -22,7 +22,7 @@ public class SearchPage {
     }
 
     public List<String> getAllHotels() {
-        //TODO реализовать метод по получению и возврату имен всех отелей
+        //TODO реализовать метод по получению и возврату имен всех отелей (GO!)
         return null;
     }
 
